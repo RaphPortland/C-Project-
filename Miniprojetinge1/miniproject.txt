@@ -1,0 +1,5 @@
+Nom du produit : ANANAS Quantite du produit : 19 Taux de glucide dans le produit : 98.000000 
+Nom du produit : POMME Quantite du produit : 67 Taux de glucide dans le produit : 40 
+Nom du produit : ABRICOT Quantite du produit : 102 Taux de glucide dans le produit : 67 
+Nom du produit : DAFINA Quantite du produit : 12 Taux de glucide dans le produit : 13 
+Nom du produit : POIRE Quantite du produit : 12 Taux de glucide dans le produit : 36 
