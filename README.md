@@ -1,7 +1,7 @@
 # C Linked list project 
 
 ### English description :
-<p>Project involving linked lists : we decided to use food as an example (name, the amount, intake of carbohydrates, ect..) and to be able to sort them by variable.
+<p>Project involving linked lists : we decided to use a list of food as an example (name, the amount, intake of carbohydrates, ect..) and to be able to sort them by variable.
 Here you can find all the specifications for this project :</p>
 
 <p>  - Main struct containing a string and a int.</p>
