@@ -1,4 +1,4 @@
-# C Project 
+# C Linked list project 
 
 <h3>English description : </h3>
 <p>Project involving linked lists : we decided to use food as an example (name, the amount, intake of carbohydrates, ect..) and to be able to sort them by variable.
