@@ -1,6 +1,6 @@
 # C Linked list project 
 
-<h3>English description : </h3>
+### English description :
 <p>Project involving linked lists : we decided to use food as an example (name, the amount, intake of carbohydrates, ect..) and to be able to sort them by variable.
 Here you can find all the specifications for this project :</p>
 
@@ -24,7 +24,7 @@ Here you can find all the specifications for this project :</p>
 <p>  - Using/create functions as much as possible (Using addresses to pass variables, and use returns)</p>
 <p>  - Initiaze variables at the beggining of each functions</p>
 
-<h3>French description : </h3>
+### French description :
 <p>Dans le cadre de ce projet axé sur la gestion de listes chainées, nous avons décidé de nous servir des aliments, quels qu’ils soient, de leur quantité ainsi que de leur apport en glucides, ce étant de pouvoir ensuite les trier.
 Ainsi, nous pouvons comparer aisément les teneurs en sucres de chaque aliment, de façon à orienter notre choix si jamais la faim arrivait à se faire ressentir. Cahier des charges : </p>
 
