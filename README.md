@@ -2,7 +2,7 @@
 
 <h3>English description : </h3>
 <p>Project involving linked lists : we decided to use food as an example (name, the amount, intake of carbohydrates, ect..) and to be able to sort them by variable.
-Here you can find all the speciafications of this project :</p>
+Here you can find all the specifications for this project :</p>
 
 <p>  - Main struct containing a string and a int.</p>
 <p>  - Interactive display, menu </p>
@@ -26,7 +26,7 @@ Here you can find all the speciafications of this project :</p>
 
 <h3>French description : </h3>
 <p>Dans le cadre de ce projet axé sur la gestion de listes chainées, nous avons décidé de nous servir des aliments, quels qu’ils soient, de leur quantité ainsi que de leur apport en glucides, ce étant de pouvoir ensuite les trier.
-Ainsi, nous pouvons comparer aisément les teneurs en sucres de chaque aliment, de façon à orienter notre choix si jamais la faim arrivait à se faire ressentir. </p>
+Ainsi, nous pouvons comparer aisément les teneurs en sucres de chaque aliment, de façon à orienter notre choix si jamais la faim arrivait à se faire ressentir. Cahier des charges : </p>
 
 <p>  - Champ chaine de caractère, champ numérique.</p>
 <p>  - Menu interactif </p>
